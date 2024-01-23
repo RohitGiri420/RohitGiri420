@@ -1,7 +1,5 @@
 ### 👋 Hello, I'm Rohit Giri!
 
-huhjk
-
 <!--
 **RohitGiri420/RohitGiri420** I'm an Android Developer Intern at @CodeWay Solutions and a final-year B.Tech student with a strong passion for Android & IOS development. Proficient in HTML, CSS, JavaScript, Node.js, Git/GitHub, Express.js, MongoDB, and React.js, I enjoy creating robust and user-centric web applications.
 Here are some ideas to get you started:
