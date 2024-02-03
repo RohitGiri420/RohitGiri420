@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **rk6280840221@gmail.com**
 
-- ⚡ Fun fact **I think I m Coder**
+- ⚡ Fun fact **I think I m Coder 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
