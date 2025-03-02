@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitgiri420&label=Profile%20views&color=0e75b6&style=flat" alt="rohitgiri420" /> </p>
 
-- 🔭 I’m currently working on [CodeWay--Todo App](https://github.com/RohitGiri420/Codeway--Task_1)
-
+- 🔭 I’m currently working on as **ASSOCIATE SOFTWARE DEVELOPER** @Simson Software Pvt. Ltd.
 - 🌱 I’m currently learning **Futter**
 
 - 💬 Ask me about **Flutter, java**
