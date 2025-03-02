@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitgiri420&label=Profile%20views&color=0e75b6&style=flat" alt="rohitgiri420" /> </p>
 
 - 🔭 I’m currently working as **ASSOCIATE SOFTWARE DEVELOPER** @Simson Software Pvt. Ltd.
-- 🌱 I’m currently learning **Futter**
+- 🌱 I’m currently learning **Go**
 
-- 💬 Ask me about **Flutter, java**
+- 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **rk6280840221@gmail.com**
 
-- ⚡ Fun fact **I think I m Coder**
+- ⚡ Fun fact **I m programmer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
